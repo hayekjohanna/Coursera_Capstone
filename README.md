@@ -1,2 +1,2 @@
-# IBM-projects
-IBM Data Science certificate projects
+# IBM-capstone
+IBM Data Science certificate, capstone project
