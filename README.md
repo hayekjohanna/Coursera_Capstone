@@ -1,2 +1,2 @@
-# IBM-capstone
-IBM Data Science certificate, capstone project
+# IBM-machine learning project
+IBM Machine Learning Project (Coursera)
